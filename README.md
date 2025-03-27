@@ -1,10 +1,3 @@
-# Hi there, I'm Pranav Gupta! 👋
-
-## 🚀 ML Enthusiast & Full-Stack Developer
-
-Aspiring developer passionate about building intelligent solutions and seamless user experiences.
-
----
 
 ## 🌍 Socials:
 
